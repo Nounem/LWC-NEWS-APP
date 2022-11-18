@@ -6,3 +6,5 @@
 3. Apex class to call REST API(news API)
 4. Display Data on Lightning Web Component
 5. Deploy your component
+
+https://www.youtube.com/watch?v=KHX3Yl8wPXc&list=PLSWzWO4OqYAqo3Vxi24wmfAq20oqa1gTG&index=2
